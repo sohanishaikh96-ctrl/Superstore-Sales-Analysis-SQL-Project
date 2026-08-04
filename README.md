@@ -4,7 +4,7 @@ End-to-end relational database design and SQL analytics on the Kaggle Superstore
 **Disclaimer:** Dataset sourced from Kaggle (Superstore Sales) for educational and portfolio purposes only.
 
 
-
+---
 ## Introduction
 
 Retailers sit on years of transactional data — orders, customers, products, shipping — but that data is only as useful as the questions you can ask of it. For this project, I took the raw Superstore dataset (2015–2018, ~10K order-line records) and rebuilt it as a normalized relational database in SQL Server, then used SQL exclusively — no Power BI, no Excel dashboard — to answer real business questions: who are our best customers, which categories drive revenue, where are we winning or losing regionally, and how consistent is our fulfillment?
