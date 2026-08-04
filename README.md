@@ -17,8 +17,9 @@ The goal was to demonstrate that meaningful, decision-ready analysis doesn't req
 
 ---
 ## Entity Relationship Diagram (ERD)
-<img width="1668" height="889" alt=" <img width="1727" height="1191" alt="erd" src="https://github.com/user-attachments/assets/e09e5578-e4e7-405a-95dd-70cc7989344e" />
-" src="[https://github.com/user-attachments/assets/c6c1b55b-dd1a-46d4-b6cf-92694dee5537](https://github.com/sohanishaikh96-ctrl/Superstore-Sales-Analysis-SQL-Project/blob/main/erd.png)" />
+
+<img width="1727" height="1191" alt="erd" src="https://github.com/user-attachments/assets/a7a9a2e1-f9ae-45c0-80d0-0b3fe0ec3b4f" />
+
 
 ---
 ## Methodology
