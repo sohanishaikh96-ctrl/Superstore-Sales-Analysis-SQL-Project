@@ -1,6 +1,6 @@
 # Superstore Sales Analysis — SQL Project (2015–2018)
 
-*End-to-end relational database design and SQL analytics on the Kaggle Superstore dataset, built entirely in SQL Server — no BI tool used.*
+*End-to-end relational database design and SQL analytics on the Kaggle Superstore dataset, built entirely in SQL Server *
 
 > **Disclaimer:** Dataset sourced from Kaggle (Superstore Sales) for educational and portfolio purposes only.
 
