@@ -12,6 +12,11 @@ Retailers sit on years of transactional data — orders, customers, products, sh
 The goal was to demonstrate that meaningful, decision-ready analysis doesn't require a visualization layer — it can live entirely in well-structured queries, views, and stored procedures that any analyst or engineer can call on demand.
 
 ---
+## Dataset Used
+- <a href="https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales">Dataset</a>
+
+---
+
 
 ## Methodology
 
