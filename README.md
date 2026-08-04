@@ -25,7 +25,7 @@ The goal was to demonstrate that meaningful, decision-ready analysis doesn't req
 ## Methodology
 
 **1. Data Ingestion**
-The raw dataset arrived as a single flat Excel file with 17 columns (`Order_ID`, `Order_Date`, `Ship_Date`, `Ship_Mode`, `Customer_ID`, `Customer_Name`, `Segment`, `Country`, `City`, `State`, `Postal_Code`, `Region`, `Product_ID`, `Category`, `Sub_Category`, `Product_Name`, `Sales`). This was loaded into SQL Server as a staging table.
+The raw dataset arrived as a single flat CSV file with 17 columns (`Order_ID`, `Order_Date`, `Ship_Date`, `Ship_Mode`, `Customer_ID`, `Customer_Name`, `Segment`, `Country`, `City`, `State`, `Postal_Code`, `Region`, `Product_ID`, `Category`, `Sub_Category`, `Product_Name`, `Sales`). This was loaded into SQL Server as a staging table.
 
 **2. Schema Normalization**
 To eliminate redundancy and enforce data integrity, the flat table was decomposed into a 3NF-style schema of five tables:
