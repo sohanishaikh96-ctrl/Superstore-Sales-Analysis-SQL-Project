@@ -16,8 +16,10 @@ The goal was to demonstrate that meaningful, decision-ready analysis doesn't req
 - <a href="https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales">Dataset</a>
 
 ---
+## Entity Relationship Diagram (ERD)
+<img width="1668" height="889" alt=" Entity Relationship Diagram (ERD)" src="[https://github.com/user-attachments/assets/c6c1b55b-dd1a-46d4-b6cf-92694dee5537](https://github.com/sohanishaikh96-ctrl/Superstore-Sales-Analysis-SQL-Project/blob/main/erd.png)" />
 
-
+---
 ## Methodology
 
 **1. Data Ingestion**
