@@ -13,7 +13,7 @@ The goal was to demonstrate that meaningful, decision-ready analysis doesn't req
 
 ---
 ## Dataset Used
-- <a href="https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales">Dataset</a>
+- <a href="https://www.kaggle.com/datasets/bhanupratapbiswas/superstore-sales" target ="blank" >Dataset</a>
 
 ---
 ## Entity Relationship Diagram (ERD)
